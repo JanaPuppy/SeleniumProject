@@ -89,8 +89,8 @@ public class AlertExample {
 
 		Thread.sleep(3000);
 
-		alert_demo.accept();
-		//alert_demo.dismiss();
+		//alert_demo.accept();
+		alert_demo.dismiss();
 
 
 	}
